@@ -1,0 +1,18 @@
+Sun 22 Jun 2014 01:08:19 PM
+
+----------------------------------------------------------------------
+WARNING:  the hcpy calculator does not work correctly under recent
+versions of mpmath.  If you want to use the program, you'll have to
+download and install mpmath version 0.12.
+----------------------------------------------------------------------
+
+I have moved the contents of the zipfile on the Downloads page to this
+repository and included the three files
+
+    project_home_page
+    wiki_documentation
+    wiki_tutorial
+
+which contain the text on the project's
+https://code.google.com/p/hcpy/ website.
+

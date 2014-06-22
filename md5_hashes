@@ -1,0 +1,19 @@
+# This file contains the MD5 hashes of the python files.  Run the
+# command 'md5sum -c hashes' and it should verify that the python
+# files are unchanged (if any message except 'OK' is printed for a
+# file, there's something wrong).
+f62144e61ae4956bee4984170323d2d5  cmddecod.py
+1a67a00c9203b3cba6cbedfe181fb9ed  cons.py
+ce3830552ee81d9e62903310466f93f0  convert.py
+29ab9b6f1e1f6a9d7a9ea0e509903633  debug.py
+439a3349a0af03a61e4690c058af320f  display.py
+488c0488655a64682160549979219b56  h.py
+93de63c6dae754fee8bcd81aa2c4cd8d  hc.py
+d89ee5b52fae8256858b66cb1cf3c303  helpinfo.py
+c8170e168ea6279f9864d6ef3aa16612  integer.py
+53c771a571e95113ed73e838e8ed6a81  julian.py
+f660e12b38183afa87ea6c5fce5bbe85  mpformat.py
+b6bb0fccc89880dcdb7888653d001f75  number.py
+d0a1aaf1ba3b9affdada5168622e6407  rational.py
+593419476a1cbf10e90fa2f5b3a9d0e3  si.py
+07eaeb8681f73c65600125332f338a6b  stack.py
